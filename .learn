@@ -6,3 +6,5 @@ tags:
 languages:
   - ruby
 resources:
+
+parent_template: git@github.com:learn-co-curriculum/ruby-music-library-cli.git
